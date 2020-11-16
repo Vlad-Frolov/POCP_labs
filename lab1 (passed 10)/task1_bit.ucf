@@ -1,0 +1,9 @@
+net "A" loc = F15;
+net "B" loc = R10;
+net "S" loc = T16;
+net "Z" loc = T8;
+
+net "A" iostandard = LVCMOS18;
+net "B" iostandard = LVCMOS18;
+net "S" iostandard = LVCMOS18;
+net "Z" iostandard = LVCMOS18;

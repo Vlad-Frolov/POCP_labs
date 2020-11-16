@@ -1,0 +1,39 @@
+V3 24
+FL C:/Users/anduser/Desktop/POCP/control_work1/dop_2.vhd 2020/10/24.14:10:34 P.20131013
+EN work/dop_2 0 FL C:/Users/anduser/Desktop/POCP/control_work1/dop_2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/dop_2/behave 0 \
+      FL C:/Users/anduser/Desktop/POCP/control_work1/dop_2.vhd EN work/dop_2 0
+FL C:/Users/anduser/Desktop/POCP/control_work1/task1.vhd 2020/10/03.15:00:45 P.20131013
+EN work/task1 1604253761 FL C:/Users/anduser/Desktop/POCP/control_work1/task1.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/task1/Behavioral 1604253762 \
+      FL C:/Users/anduser/Desktop/POCP/control_work1/task1.vhd EN work/task1 1604253761
+FL C:/Users/anduser/Desktop/POCP/control_work1/task2.vhd 2020/10/03.15:06:59 P.20131013
+EN work/task2 1604253738 FL C:/Users/anduser/Desktop/POCP/control_work1/task2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/task2/Behavioral 1604253739 \
+      FL C:/Users/anduser/Desktop/POCP/control_work1/task2.vhd EN work/task2 1604253738
+FL C:/Users/anduser/Desktop/POCP/control_work1/task3.vhd 2020/11/02.17:50:23 P.20131013
+EN work/task3 1604328628 FL C:/Users/anduser/Desktop/POCP/control_work1/task3.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/task3/Behavioral 1604328629 \
+      FL C:/Users/anduser/Desktop/POCP/control_work1/task3.vhd EN work/task3 1604328628
+FL C:/Users/anduser/Desktop/POCP/control_work1/task4.vhd 2020/11/02.14:22:03 P.20131013
+EN work/N1_Struct 1604317161 \
+      FL C:/Users/anduser/Desktop/POCP/control_work1/task4.vhd LB UNISIM \
+      PB ieee/std_logic_1164 1381692176 PH unisim/VCOMPONENTS 1381692182
+AR work/N1_Struct/Structural 1604317162 \
+      FL C:/Users/anduser/Desktop/POCP/control_work1/task4.vhd EN work/N1_Struct 1604317161 \
+      CP N1
+FL C:/Users/anduser/Desktop/POCP/control_work1/task5.vhd 2020/11/01.21:44:23 P.20131013
+EN work/ANDN 1604256349 FL C:/Users/anduser/Desktop/POCP/control_work1/task5.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ANDN/Behavioral 1604256350 \
+      FL C:/Users/anduser/Desktop/POCP/control_work1/task5.vhd EN work/ANDN 1604256349 \
+      CP AND2
+FL C:/Users/anduser/Desktop/POCP/control_work1/task6.vhd 2020/11/02.14:06:46 P.20131013
+EN work/N1 1604317159 FL C:/Users/anduser/Desktop/POCP/control_work1/task6.vhd \
+      LB UNISIM PB ieee/std_logic_1164 1381692176 PH unisim/VCOMPONENTS 1381692182
+AR work/N1/Behavioral 1604317160 \
+      FL C:/Users/anduser/Desktop/POCP/control_work1/task6.vhd EN work/N1 1604317159

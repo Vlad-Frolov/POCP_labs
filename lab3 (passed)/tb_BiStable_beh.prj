@@ -1,0 +1,3 @@
+vhdl work "inv.vhd"
+vhdl work "BiStable.vhd"
+vhdl work "tb_BiStable.vhd"

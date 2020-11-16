@@ -1,0 +1,2 @@
+vhdl work "lav2_dop.vhd"
+vhdl work "Test_bench.vhd"

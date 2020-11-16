@@ -1,0 +1,35 @@
+Command line:
+   tb_task4_AND_struc_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  51682
+
+Tue Sep 15 12:29:20 2020
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5160.58 Meg
+
+ Total Signals          : 26
+ Total Nets             : 16
+ Total Signal Drivers   : 11
+ Total Blocks           : 12
+ Total Primitive Blocks : 6
+ Total Processes        : 11
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 504
+Total Line Count : 14
+
+** Failure:End of simulation
+User(VHDL) Code Called Simulation Stop
+In process tb_task4_AND_struc.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 0.234375 sec
+
+ Current Memory Usage: 4688.72 Meg
+
+Tue Sep 15 16:46:59 2020
+

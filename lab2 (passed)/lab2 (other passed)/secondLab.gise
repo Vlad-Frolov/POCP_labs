@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="secondLab.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name=".prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name=".stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name=".xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="AND3.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="AND3.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="AND3.xst"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="behav_device.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="behav_device.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="behav_device.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="behav_device.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="behav_device.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="behav_device.spl"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="behav_device.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="behav_device.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="behav_device.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="behav_device.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="behav_device_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="behav_device_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="behav_device_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="behav_device_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="behav_device_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="mux.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="mux.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="mux.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="mux.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="mux.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="mux.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="mux.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux2.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="mux2.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="mux2.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="mux4.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="mux4.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="mux4.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="mux4.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="mux4.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="mux4.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux4.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="mux4.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="mux4.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="mux4.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="mux4_envsettings.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="mux4_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="mux4_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="mux4_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux4_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="mux4_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="mux4_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="mux_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="mux_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="mux_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="notV.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="notV.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="one_discharge_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="struc_device.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="struc_device.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="struc_device.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="struc_device.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="struc_device.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="struc_device.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="struc_device.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="struc_device.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="struc_device_envsettings.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="struc_device_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="struc_device_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="struc_device_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="struc_device_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="task4_AND5_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="task4_AND5_beh.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="task4_AND5_beh.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="task4_AND5_struc.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="task4_AND5_struc.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="task4_AND5_struc.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="task4_demux_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="task4_demux_beh.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="task4_demux_beh.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="task4_demux_struc.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="task4_demux_struc.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="task4_demux_struc.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="task4_discharge_beh_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="task4_discharge_struc.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="task4_discharge_struc.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="task4_discharge_struc.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="task4_discharge_struc.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="task4_discharge_struc.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="task4_discharge_struc.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="task4_discharge_struc.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="task4_discharge_struc.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="task4_discharge_struc_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="task4_discharge_struc_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="task4_mux_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="task4_mux_beh.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="task4_mux_beh.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="task4_mux_struc.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="task4_mux_struc.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="task4_mux_struc.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="task4_mux_struc_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_task4_AND5_beh_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_task4_AND5_beh_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_task4_AND_struc_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_task4_AND_struc_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="tb_task4_AND_struc_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_task4_AND_struc_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_task4_demux_beh_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_task4_demux_beh_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="tb_task4_demux_beh_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_task4_demux_beh_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_task4_demux_struc_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_task4_demux_struc_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="tb_task4_demux_struc_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_task4_demux_struc_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_task4_mux_beh_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_task4_mux_beh_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_task4_mux_struc_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="tb_task4_mux_struc_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_task4_mux_struc_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1599989911" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1599989911">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936640" xil_pn:in_ck="-5607346231784616095" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1602936639">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="AND3.vhd"/>
+      <outfile xil_pn:name="behav_device.vhd"/>
+      <outfile xil_pn:name="mux.vhd"/>
+      <outfile xil_pn:name="mux2.vhd"/>
+      <outfile xil_pn:name="mux3.vhd"/>
+      <outfile xil_pn:name="mux4.vhd"/>
+      <outfile xil_pn:name="notV.vhd"/>
+      <outfile xil_pn:name="one_discharge.vhd"/>
+      <outfile xil_pn:name="or2_gate.vhd"/>
+      <outfile xil_pn:name="struc_device.vhd"/>
+      <outfile xil_pn:name="task4_AND5_beh.vhd"/>
+      <outfile xil_pn:name="task4_AND5_struc.vhd"/>
+      <outfile xil_pn:name="task4_demux_beh.vhd"/>
+      <outfile xil_pn:name="task4_demux_struc.vhd"/>
+      <outfile xil_pn:name="task4_discharge_beh.vhd"/>
+      <outfile xil_pn:name="task4_discharge_struc.vhd"/>
+      <outfile xil_pn:name="task4_mux_beh.vhd"/>
+      <outfile xil_pn:name="task4_mux_struc.vhd"/>
+      <outfile xil_pn:name="tb_task4_AND5_beh.vhd"/>
+      <outfile xil_pn:name="tb_task4_AND_struc.vhd"/>
+      <outfile xil_pn:name="tb_task4_demux_beh.vhd"/>
+      <outfile xil_pn:name="tb_task4_demux_struc.vhd"/>
+      <outfile xil_pn:name="tb_task4_mux_beh.vhd"/>
+      <outfile xil_pn:name="tb_task4_mux_struc.vhd"/>
+      <outfile xil_pn:name="xor_gate.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936640" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="8624613439109382724" xil_pn:start_ts="1602936640">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936640" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="3987663078181393954" xil_pn:start_ts="1602936640">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936640" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-5022120508351783203" xil_pn:start_ts="1602936640">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936640" xil_pn:in_ck="-5607346231784616095" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1602936640">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="AND3.vhd"/>
+      <outfile xil_pn:name="behav_device.vhd"/>
+      <outfile xil_pn:name="mux.vhd"/>
+      <outfile xil_pn:name="mux2.vhd"/>
+      <outfile xil_pn:name="mux3.vhd"/>
+      <outfile xil_pn:name="mux4.vhd"/>
+      <outfile xil_pn:name="notV.vhd"/>
+      <outfile xil_pn:name="one_discharge.vhd"/>
+      <outfile xil_pn:name="or2_gate.vhd"/>
+      <outfile xil_pn:name="struc_device.vhd"/>
+      <outfile xil_pn:name="task4_AND5_beh.vhd"/>
+      <outfile xil_pn:name="task4_AND5_struc.vhd"/>
+      <outfile xil_pn:name="task4_demux_beh.vhd"/>
+      <outfile xil_pn:name="task4_demux_struc.vhd"/>
+      <outfile xil_pn:name="task4_discharge_beh.vhd"/>
+      <outfile xil_pn:name="task4_discharge_struc.vhd"/>
+      <outfile xil_pn:name="task4_mux_beh.vhd"/>
+      <outfile xil_pn:name="task4_mux_struc.vhd"/>
+      <outfile xil_pn:name="tb_task4_AND5_beh.vhd"/>
+      <outfile xil_pn:name="tb_task4_AND_struc.vhd"/>
+      <outfile xil_pn:name="tb_task4_demux_beh.vhd"/>
+      <outfile xil_pn:name="tb_task4_demux_struc.vhd"/>
+      <outfile xil_pn:name="tb_task4_mux_beh.vhd"/>
+      <outfile xil_pn:name="tb_task4_mux_struc.vhd"/>
+      <outfile xil_pn:name="xor_gate.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936643" xil_pn:in_ck="-5607346231784616095" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="8475026354285315704" xil_pn:start_ts="1602936640">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="tb_task4_demux_struc_beh.prj"/>
+      <outfile xil_pn:name="tb_task4_demux_struc_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936643" xil_pn:in_ck="2856947613079288838" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-1853203316274637883" xil_pn:start_ts="1602936643">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="tb_task4_demux_struc_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1599994272" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1599994272">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936123" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="359534958816381941" xil_pn:start_ts="1602936123">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936123" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-5022120508351783203" xil_pn:start_ts="1602936123">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936123" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1602936123">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936123" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="7805966401206792343" xil_pn:start_ts="1602936123">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936123" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1602936123">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936123" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="1256600163583605223" xil_pn:start_ts="1602936123">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602936547" xil_pn:in_ck="1386592904407927568" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="544979057567564836" xil_pn:start_ts="1602936537">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="task4_discharge_struc.lso"/>
+      <outfile xil_pn:name="task4_discharge_struc.ngc"/>
+      <outfile xil_pn:name="task4_discharge_struc.ngr"/>
+      <outfile xil_pn:name="task4_discharge_struc.prj"/>
+      <outfile xil_pn:name="task4_discharge_struc.stx"/>
+      <outfile xil_pn:name="task4_discharge_struc.syr"/>
+      <outfile xil_pn:name="task4_discharge_struc.xst"/>
+      <outfile xil_pn:name="task4_discharge_struc_stx_beh.prj"/>
+      <outfile xil_pn:name="task4_discharge_struc_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1600005217" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="3014863321290429602" xil_pn:start_ts="1600005217">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+  </transforms>
+
+</generated_project>

@@ -1,0 +1,2 @@
+vhdl isim_temp "one_discharge.vhd"
+vhdl isim_temp "task4_discharge_struc.vhd"

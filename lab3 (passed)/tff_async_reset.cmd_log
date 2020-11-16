@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/anduser/Desktop/POCP/lab3/tff_async_reset.xst" -ofn "C:/Users/anduser/Desktop/POCP/lab3/tff_async_reset.syr" 

@@ -1,0 +1,6 @@
+vhdl work "xor_gate.vhd"
+vhdl work "notV.vhd"
+vhdl work "mux3.vhd"
+vhdl work "mux2.vhd"
+vhdl work "struc_device.vhd"
+vhdl work "task4_mux_beh.vhd"

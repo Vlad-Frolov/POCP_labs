@@ -1,0 +1,2 @@
+vhdl work "task4_demux_beh.vhd"
+vhdl work "tb_task4_demux_beh.vhd"

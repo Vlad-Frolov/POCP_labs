@@ -1,0 +1,6 @@
+vhdl isim_temp "nor2.vhd"
+vhdl isim_temp "RS.vhd"
+vhdl isim_temp "inv.vhd"
+vhdl isim_temp "and2.vhd"
+vhdl isim_temp "DE.vhd"
+vhdl isim_temp "tb_DE.vhd"

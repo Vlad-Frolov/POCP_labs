@@ -1,0 +1,2 @@
+vhdtdtfi -lib work notV.vhd -prj secondLab -o notV.spl -module notV -template F:/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 notV.spl F:/pocp/secondLab/notV.sym 

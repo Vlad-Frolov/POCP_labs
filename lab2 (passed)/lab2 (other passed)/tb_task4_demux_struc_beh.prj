@@ -1,0 +1,3 @@
+vhdl work "AND3.vhd"
+vhdl work "task4_demux_struc.vhd"
+vhdl work "tb_task4_demux_struc.vhd"

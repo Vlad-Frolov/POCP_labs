@@ -1,0 +1,4 @@
+vhdl work "inv.vhd"
+vhdl work "BiStable.vhd"
+vhdl work "RS.vhd"
+vhdl work "nor2.vhd"

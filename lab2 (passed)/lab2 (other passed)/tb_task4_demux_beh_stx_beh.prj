@@ -1,0 +1,2 @@
+vhdl isim_temp "task4_demux_beh.vhd"
+vhdl isim_temp "tb_task4_demux_beh.vhd"

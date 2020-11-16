@@ -1,0 +1,3 @@
+vhdtdtfi -lib work behav_device.vhd -prj secondLab -o behav_device.spl -module behav_device -template E:/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 behav_device.spl E:/POCP/secondLab/behav_device.sym 
+xst -intstyle ise -ifn "C:/Users/anduser/Desktop/POCP/secondLab/behav_device.xst" -ofn "C:/Users/anduser/Desktop/POCP/secondLab/behav_device.syr" 

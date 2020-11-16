@@ -1,0 +1,4 @@
+vhdl work "nor2.vhd"
+vhdl work "RS.vhd"
+vhdl work "inv.vhd"
+vhdl work "D.vhd"

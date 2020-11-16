@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\anduser\Desktop\POCP\lab1\task1.ncd
+OUTFILE=C:\Users\anduser\Desktop\POCP\lab1\task1.bit
+FAMILY=Automotive Artix7
+PART=xa7a100t-2icsg324
+WORKINGDIR=C:\Users\anduser\Desktop\POCP\lab1
+LICENSE=WebPack
+USER_INFO=__0_0_0

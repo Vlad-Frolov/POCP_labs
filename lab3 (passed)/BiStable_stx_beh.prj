@@ -1,0 +1,2 @@
+vhdl isim_temp "inv.vhd"
+vhdl isim_temp "BiStable.vhd"

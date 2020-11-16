@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/anduser/Desktop/POCP/lab3 (TO PASS)/tb_JK_isim_beh.exe" -prj "C:/Users/anduser/Desktop/POCP/lab3 (TO PASS)/tb_JK_beh.prj" "work.tb_JK" 

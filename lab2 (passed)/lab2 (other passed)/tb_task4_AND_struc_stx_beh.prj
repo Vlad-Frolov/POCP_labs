@@ -1,0 +1,3 @@
+vhdl isim_temp "mux2.vhd"
+vhdl isim_temp "task4_AND5_struc.vhd"
+vhdl isim_temp "tb_task4_AND_struc.vhd"

@@ -1,0 +1,5 @@
+vhdl isim_temp "or2_gate.vhd"
+vhdl isim_temp "notV.vhd"
+vhdl isim_temp "mux2.vhd"
+vhdl isim_temp "mux.vhd"
+vhdl isim_temp "mux4.vhd"

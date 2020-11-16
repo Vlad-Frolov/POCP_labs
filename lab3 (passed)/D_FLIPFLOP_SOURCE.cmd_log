@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/anduser/Desktop/POCP/lab3/D_FLIPFLOP_SOURCE.xst" -ofn "C:/Users/anduser/Desktop/POCP/lab3/D_FLIPFLOP_SOURCE.syr" 

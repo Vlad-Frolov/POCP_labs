@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/anduser/Desktop/POCP/secondLab/task4_discharge_struc.xst" -ofn "C:/Users/anduser/Desktop/POCP/secondLab/task4_discharge_struc.syr" 
+xst -intstyle ise -ifn "C:/Users/anduser/Desktop/POCP/secondLab/task4_discharge_struc.xst" -ofn "C:/Users/anduser/Desktop/POCP/secondLab/task4_discharge_struc.syr" 
