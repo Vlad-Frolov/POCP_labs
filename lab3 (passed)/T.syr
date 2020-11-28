@@ -4,13 +4,13 @@ Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.08 secs
+Total CPU time to Xst completion: 0.09 secs
  
 --> Parameter xsthdpdir set to xst
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.08 secs
+Total CPU time to Xst completion: 0.09 secs
  
 --> Reading design: T.prj
 
@@ -105,7 +105,7 @@ Slice Utilization Ratio Delta      : 5
 =========================================================================
 *                          HDL Parsing                                  *
 =========================================================================
-Parsing VHDL file "C:\Users\anduser\Desktop\POCP\lab3\T.vhd" into library work
+Parsing VHDL file "C:\Users\anduser\Desktop\POCP\lab3 (passed)\T.vhd" into library work
 Parsing entity <T>.
 Parsing architecture <Behavioral> of entity <t>.
 
@@ -120,7 +120,7 @@ Elaborating entity <T> (architecture <Behavioral>) from library <work>.
 =========================================================================
 
 Synthesizing Unit <T>.
-    Related source file is "C:\Users\anduser\Desktop\POCP\lab3\T.vhd".
+    Related source file is "C:\Users\anduser\Desktop\POCP\lab3 (passed)\T.vhd".
     Found 1-bit register for signal <Q>.
     Summary:
 	inferred   1 D-type flip-flop(s).
@@ -344,12 +344,12 @@ Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
 =========================================================================
 
 
-Total REAL time to Xst completion: 30.00 secs
-Total CPU time to Xst completion: 30.05 secs
+Total REAL time to Xst completion: 29.00 secs
+Total CPU time to Xst completion: 28.40 secs
  
 --> 
 
-Total memory usage is 5081492 kilobytes
+Total memory usage is 5055464 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    1 (   0 filtered)

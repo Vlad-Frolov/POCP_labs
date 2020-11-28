@@ -1,0 +1,28 @@
+Command line:
+   FF_Enable_CLR_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57299
+
+Thu Nov 19 17:41:58 2020
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5154.44 Meg
+
+ Total Signals          : 31
+ Total Nets             : 31
+ Total Signal Drivers   : 2
+ Total Blocks           : 4
+ Total Primitive Blocks : 4
+ Total Processes        : 2
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 514
+
+ Total Simulation Time: 0.40625 sec
+
+ Current Memory Usage: 5154.44 Meg
+
+Thu Nov 19 17:42:19 2020
+

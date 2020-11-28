@@ -8,25 +8,29 @@
       <ClosedNodes>
          <ClosedNodesVersion>2</ClosedNodesVersion>
          <ClosedNode>/BiStable - Behavioral C:|Users|anduser|Desktop|POCP|lab3 (TO PASS)|BiStable.vhd</ClosedNode>
+         <ClosedNode>/BiStable - Behavioral C:|Users|anduser|Desktop|POCP|lab3 (passed)|BiStable.vhd</ClosedNode>
          <ClosedNode>/BiStable - Behavioral C:|Users|anduser|Desktop|POCP|lab3|BiStable.vhd</ClosedNode>
          <ClosedNode>/BiStable - Behavioral C:|Users|anduser|Desktop|POCP|thirdLab|BiStable.vhd</ClosedNode>
          <ClosedNode>/D - Str C:|Users|anduser|Desktop|POCP|lab3 (TO PASS)|D.vhd</ClosedNode>
+         <ClosedNode>/D - Str C:|Users|anduser|Desktop|POCP|lab3 (passed)|D.vhd</ClosedNode>
          <ClosedNode>/D - Str C:|Users|anduser|Desktop|POCP|lab3|D.vhd</ClosedNode>
          <ClosedNode>/D - Str C:|Users|anduser|Desktop|POCP|thirdLab|D.vhd</ClosedNode>
          <ClosedNode>/DE - Str C:|Users|anduser|Desktop|POCP|lab3 (TO PASS)|DE.vhd</ClosedNode>
+         <ClosedNode>/DE - Str C:|Users|anduser|Desktop|POCP|lab3 (passed)|DE.vhd</ClosedNode>
          <ClosedNode>/DE - Str C:|Users|anduser|Desktop|POCP|lab3|DE.vhd</ClosedNode>
          <ClosedNode>/DE - Str C:|Users|anduser|Desktop|POCP|thirdLab|DE.vhd</ClosedNode>
          <ClosedNode>/RS - Str C:|Users|anduser|Desktop|POCP|lab3 (TO PASS)|RS.vhd</ClosedNode>
+         <ClosedNode>/RS - Str C:|Users|anduser|Desktop|POCP|lab3 (passed)|RS.vhd</ClosedNode>
          <ClosedNode>/RS - Str C:|Users|anduser|Desktop|POCP|lab3|RS.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>T - Behavioral (C:/Users/anduser/Desktop/POCP/lab3/T.vhd)</SelectedItem>
+         <SelectedItem>T - Behavioral (C:/Users/anduser/Desktop/POCP/lab3 (passed)/T.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001cb000000020000000000000000000000000200000064ffffffff000000810000000300000002000001cb0000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001fa000000020000000000000000000000000200000064ffffffff000000810000000300000002000001fa0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>T - Behavioral (C:/Users/anduser/Desktop/POCP/lab3/T.vhd)</CurrentItem>
+      <CurrentItem>T - Behavioral (C:/Users/anduser/Desktop/POCP/lab3 (passed)/T.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -34,13 +38,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem/>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000111000000010000000100000000000000000000000064ffffffff000000810000000000000001000001110000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
    <ItemView guiview="File" >
       <ClosedNodes>
@@ -51,7 +55,7 @@
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002e3000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d00000001000000000000002100000001000000000000005d0000000100000000000002280000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>C:\Users\anduser\Desktop\POCP\lab3\and2.vhd</CurrentItem>
+      <CurrentItem>C:\Users\anduser\Desktop\POCP\lab3 (passed)\and2.vhd</CurrentItem>
    </ItemView>
    <ItemView guiview="Library" >
       <ClosedNodes>
@@ -75,13 +79,13 @@
          <ClosedNode>User Constraints</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>View Technology Schematic</SelectedItem>
+         <SelectedItem>Synthesize - XST</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000100000000010000000100000000000000000000000064ffffffff000000810000000000000001000001000000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001d3000000010000000100000000000000000000000064ffffffff000000810000000000000001000001d30000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>View Technology Schematic</CurrentItem>
+      <CurrentItem>Synthesize - XST</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
       <ClosedNodes>

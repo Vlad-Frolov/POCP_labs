@@ -1,0 +1,1 @@
+library ieee;use ieee.std_logic_1164.all;entity andgate is	port (A, B, C, D : in std_logic := '1';		     Y : out std_ulogic);end andgate;architecture gate of andgate is begin	Y <= A and B and C and D;end gate;
